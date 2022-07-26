@@ -1,0 +1,2 @@
+# startup
+personal dotfiles to bring to new installations - all the favorite configs - arch btw elitist - check out the README
